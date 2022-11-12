@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
+
+* {
+
+	transition: all ease-in-out 1000ms;
+}
+
+body {
+	margin: 0;
+    font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+    text-emphasis-color: #FFFF;
+	overflow-x: hidden;
+	box-sizing: border-box;
+    color: #ffff;
+	border-radius: 12px;
+    background: #485563;
+    background: -webkit-linear-gradient(to right, #29323c, #485563);
+    background: linear-gradient(to right, #29323c, #485563);
+}
+
